@@ -10,7 +10,6 @@ public class RechnerFenster extends JFrame implements ActionListener {
     private JPanel unterPanelSouth;
     private JTextField text2; //grafische Elemente
     private JLabel text;
-
     private JButton button1, button2, button3;
     int counter = 1;
     int multiply = 5;
